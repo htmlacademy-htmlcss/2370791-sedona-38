@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ксения Хренова](https://up.htmlacademy.ru/htmlcss/38/user/2370791).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова] (https://htmlacademy.ru/profile/ankhena).
 
 ---
 
